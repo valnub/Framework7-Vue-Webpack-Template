@@ -2,6 +2,11 @@
 
 A full-featured Framework7 + Vue + Webpack setup with hot-reload & css extraction. Based on [Vue Webpack Boilerplate](https://github.com/vuejs-templates/webpack)
 
+## Compatibility
+
+- Framework7 v1
+- VueJS 2.x or higher
+
 ## Build Setup
 
 ``` bash
