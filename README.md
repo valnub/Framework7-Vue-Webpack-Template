@@ -1,11 +1,15 @@
-# Framework7 Vue + Webpack App Template
+# Deprecated
 
-A full-featured Framework7 + Vue + Webpack setup with hot-reload & css extraction. Based on [Vue Webpack Boilerplate](https://github.com/vuejs-templates/webpack)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+***This repo is not mainted any more. It is very old, so please be aware that it will only work for Framework7 1.x! If you want the latest official up-to-date templates check the [Framework7.io website](http://framework7.io/templates/)!***
 
 ## Compatibility
 
 - Framework7 v1
 - VueJS 2.x or higher
+
+---------------------
 
 ## Build Setup
 
